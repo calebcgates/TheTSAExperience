@@ -1,0 +1,142 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": [
+        "Cancel"
+      ]
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": [
+        "Help"
+      ]
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": [
+        "Stop",
+        "Quit"
+      ]
+    },
+    {
+      "name": "AssistanceIntent",
+      "samples": [
+        "Ask for Assistance",
+        "Assistance"
+      ],
+      "slots": []
+    },
+    {
+      "name": "EmailIntent",
+      "samples": [
+        "Search your email",
+        "search my email",
+        "email",
+        "search email"
+      ],
+      "slots": []
+    },
+    {
+      "name": "FiveIntent",
+      "samples": [
+        "Five"
+      ],
+      "slots": []
+    },
+    {
+      "name": "FourIntent",
+      "samples": [
+        "Four"
+      ],
+      "slots": []
+    },
+    {
+      "name": "InformationIntent",
+      "samples": [
+        "Information",
+        "Info"
+      ],
+      "slots": []
+    },
+    {
+      "name": "LongIntent",
+      "samples": [
+        "Long"
+      ],
+      "slots": []
+    },
+    {
+      "name": "NoIntent",
+      "samples": [
+        "No"
+      ],
+      "slots": []
+    },
+    {
+      "name": "OneIntent",
+      "samples": [
+        "One"
+      ],
+      "slots": []
+    },
+    {
+      "name": "PliersIntent",
+      "samples": [
+        "Pliers"
+      ],
+      "slots": []
+    },
+    {
+      "name": "ScissorsIntent",
+      "samples": [
+        "Scissors"
+      ],
+      "slots": []
+    },
+    {
+      "name": "ScrewDriverIntent",
+      "samples": [
+        "Screwdriver"
+      ],
+      "slots": []
+    },
+    {
+      "name": "ShortIntent",
+      "samples": [
+        "Shor"
+      ],
+      "slots": []
+    },
+    {
+      "name": "StepForwardIntent",
+      "samples": [
+        "Step forward",
+        "Step",
+        "Step forward again"
+      ],
+      "slots": []
+    },
+    {
+      "name": "ThreeIntent",
+      "samples": [
+        "Three"
+      ],
+      "slots": []
+    },
+    {
+      "name": "TwoIntent",
+      "samples": [
+        "Two"
+      ],
+      "slots": []
+    },
+    {
+      "name": "YesIntent",
+      "samples": [
+        "Yes"
+      ],
+      "slots": []
+    }
+  ]
+}
